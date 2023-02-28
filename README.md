@@ -1,4 +1,4 @@
-### Olá! Me chamo Igor, sou estudante de Análise e Desenvolvimento de Sistema. 💻
+### Olá! Me chamo Igor. 💻
 ---
 <div align="center">
 <a href="https://github.com/igorzfrank">
