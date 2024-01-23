@@ -1,4 +1,5 @@
-### Olá! Me chamo Igor. 💻
+### Olá! Me chamo Igor Frank Moreno. 💻
+### Sou Desenvolvedor Front-end e aspirante a UX/UI Designer 📝
 ---
 <div align="center">
 <a href="https://github.com/igorzfrank">
